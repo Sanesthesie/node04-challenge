@@ -1,0 +1,12 @@
+{
+  "name": "quete-maudite",
+  "version": "1.0.0",
+  "description": "Ma lutte avec node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
